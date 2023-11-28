@@ -63,3 +63,5 @@ if htmlPage.status_code == 200:
     print_w7day(weather_7day)
 else:
     print('not 200')
+
+print('POGODA ')
